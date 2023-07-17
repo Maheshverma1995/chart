@@ -52,7 +52,7 @@ function One() {
     <div  className='container-fluid' style={{marginTop:100}}>
     <div className='row'>
         <div className='col-12 text-center'>
-            <h1>react charts</h1>
+            <h1>react charts One</h1>
             <BarChart width={1200}
               height={500}
               data={data}>
